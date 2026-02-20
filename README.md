@@ -17,5 +17,5 @@ State agencies required a localized understanding of where excess moisture was c
 * **Outcome:** Published recommendations currently used to support statewide climate-resilient planning decisions.
 
 ## 📂 Project Artifacts
-* [View Full Research Brief (PDF)](Research_Brief_Crop_Loss.pdf)
+* [View Full Research Brief (PDF)]([Research_Brief_Crop_Loss.pdf](https://github.com/MedhaDev/PA-Crop-Loss-Climate-Analysis/blob/main/Research%20Brieft.pdf))
 * *Note: Original SQL/Python scripts are proprietary; this repository serves as a portfolio case study of the findings.*
